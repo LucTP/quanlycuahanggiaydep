@@ -1,0 +1,137 @@
+C:\Users\TheAnh\Desktop\TungBem\QuanLyGiayDep\QuanLyGiayDep\bin\Debug\QuanLyGiayDep.exe.config
+C:\Users\TheAnh\Desktop\TungBem\QuanLyGiayDep\QuanLyGiayDep\bin\Debug\QuanLyGiayDep.exe
+C:\Users\TheAnh\Desktop\TungBem\QuanLyGiayDep\QuanLyGiayDep\bin\Debug\QuanLyGiayDep.pdb
+C:\Users\TheAnh\Desktop\TungBem\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.csprojResolveAssemblyReference.cache
+C:\Users\TheAnh\Desktop\TungBem\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.fHoaDon.resources
+C:\Users\TheAnh\Desktop\TungBem\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.Properties.Resources.resources
+C:\Users\TheAnh\Desktop\TungBem\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.csproj.GenerateResource.Cache
+C:\Users\TheAnh\Desktop\TungBem\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.exe
+C:\Users\TheAnh\Desktop\TungBem\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.pdb
+C:\Users\TheAnh\Desktop\TungBem\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.fChungLoai.resources
+C:\Users\TheAnh\Desktop\TungBem\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.fXuatXu.resources
+C:\Users\TheAnh\Desktop\TungBem\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.fSanPham.resources
+C:\Users\TheAnh\Desktop\TungBem\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.fNhanVien.resources
+C:\Users\TheAnh\Desktop\TungBem\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.fHoaDonSanPham.resources
+C:\Users\TheAnh\Desktop\TungBem\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.fDangNhap.resources
+C:\Users\TheAnh\Desktop\TungBem\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.frptHoaDon.resources
+C:\Users\TheAnh\Desktop\TungBem\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.frptSanPham.resources
+C:\Users\TheAnh\Dropbox\ChuyenDeThucHanh\QuanLyGiayDep\QuanLyGiayDep\QuanLyGiayDep\bin\Debug\QuanLyGiayDep.exe.config
+C:\Users\TheAnh\Dropbox\ChuyenDeThucHanh\QuanLyGiayDep\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.exe
+C:\Users\TheAnh\Dropbox\ChuyenDeThucHanh\QuanLyGiayDep\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.pdb
+H:\hoc tu xa\thuc tap tot nghiep\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\bin\Debug\QuanLyGiayDep.exe.config
+H:\hoc tu xa\thuc tap tot nghiep\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.exe
+H:\hoc tu xa\thuc tap tot nghiep\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.pdb
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\bin\Debug\QuanLyGiayDep.exe.config
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\bin\Debug\QuanLyGiayDep.exe
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\bin\Debug\QuanLyGiayDep.pdb
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\bin\Debug\stdole.dll
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.csprojAssemblyReference.cache
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.fChungLoai.resources
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.fDangNhap.resources
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.fHoaDon.resources
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.fHoaDonSanPham.resources
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.fNhanVien.resources
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.frptHoaDon.resources
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.frptSanPham.resources
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.fSanPham.resources
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.fXuatXu.resources
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.Properties.Resources.resources
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.csproj.GenerateResource.cache
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.csproj.CoreCompileInputs.cache
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.csproj.CopyComplete
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.exe
+C:\Users\Tran Phi Luc\Downloads\quan ly giay dep\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.pdb
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\bin\Debug\QuanLyGiayDep.exe.config
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\bin\Debug\QuanLyGiayDep.exe
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\bin\Debug\QuanLyGiayDep.pdb
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.Shared.dll
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\bin\Debug\AxShockwaveFlashObjects.dll
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\bin\Debug\ShockwaveFlashObjects.dll
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\bin\Debug\stdole.dll
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.csprojAssemblyReference.cache
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.fChungLoai.resources
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.fDangNhap.resources
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.fHoaDon.resources
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.fHoaDonSanPham.resources
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.fNhanVien.resources
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.frptHoaDon.resources
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.frptSanPham.resources
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.fSanPham.resources
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.fXuatXu.resources
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.Properties.Resources.resources
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.csproj.GenerateResource.cache
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.csproj.CoreCompileInputs.cache
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.csproj.CopyComplete
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.exe
+F:\hoctap\Window\BTL\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.pdb
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\bin\Debug\QuanLyGiayDep.exe.config
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\bin\Debug\QuanLyGiayDep.exe
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\bin\Debug\QuanLyGiayDep.pdb
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.Shared.dll
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\bin\Debug\AxShockwaveFlashObjects.dll
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\bin\Debug\ShockwaveFlashObjects.dll
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\bin\Debug\stdole.dll
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.csprojAssemblyReference.cache
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.fChungLoai.resources
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.fDangNhap.resources
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.fHoaDon.resources
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.fHoaDonSanPham.resources
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.fNhanVien.resources
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.frptHoaDon.resources
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.frptSanPham.resources
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.fSanPham.resources
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.fXuatXu.resources
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.Properties.Resources.resources
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.csproj.GenerateResource.cache
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.csproj.CoreCompileInputs.cache
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.csproj.CopyComplete
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.exe
+F:\hoctap\Window\2018603078_TrầnPhiLực_QLcửahànggiàydép\quan ly giay dep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.pdb
